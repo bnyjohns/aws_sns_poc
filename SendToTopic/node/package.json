@@ -1,0 +1,19 @@
+{
+  "name": "harmony_sns",
+  "version": "1.0.0",
+  "description": "Adapter service for Harmony clients to interface with AWS SNS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bjohns@logitech.com",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.305.0",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10",
+    "sns-validator": "^0.3.4"
+  }
+}

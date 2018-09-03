@@ -1,0 +1,19 @@
+{
+    "topics": [
+        {
+            "topicName": "addRemote",
+            "subscribers": [
+                {
+                   "protocol": "email",
+                   "endpoint": "bjohns@logitech.com",
+                   "discoveryIdentifier": false
+                },
+		{
+                   "protocol": "https",
+                   "endpoint": "https://c01cb152.ngrok.io/update",
+                   "discoveryIdentifier": false
+                }
+            ]
+        }
+    ]
+ }

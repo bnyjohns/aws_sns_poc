@@ -1,0 +1,12 @@
+{
+    "aws": {
+        "clientConfiguration" : {
+            "region": "",
+            "accessKeyId" : "",
+            "secretAccessKey" : ""
+        },
+        "snsS3Config": {
+            "url": "https://s3.us-west-2.amazonaws.com/config.harmony/snsconfig.json"
+        }
+    }
+}
