@@ -13,7 +13,7 @@
     "axios": "^0.18.1",
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
-    "lodash": "^4.17.13",
+    "lodash": "^4.17.21",
     "sns-validator": "^0.3.4"
   }
 }
