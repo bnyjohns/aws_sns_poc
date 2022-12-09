@@ -12,7 +12,7 @@
     "aws-sdk": "^2.305.0",
     "axios": "^0.18.1",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "lodash": "^4.17.13",
     "sns-validator": "^0.3.4"
   }
